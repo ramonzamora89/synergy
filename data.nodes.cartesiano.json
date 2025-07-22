@@ -1,0 +1,210 @@
+[
+  {
+    "id": "Municipalidad Escuintla",
+    "group": "Municipalidad",
+    "interest": "Alto",
+    "influence": "Medio",
+    "rol": "Emite licencias, regula uso de suelo, provee servicios de recolección de basura, gestión territorial ",
+    "estrategia": "Alinear planificación de desarrollo Synergy con planificación urbana y ambiental, fortalecimiento de alianza técnica"
+  },
+  {
+    "id": "Alcalde A. Rivera",
+    "group": "Municipalidad",
+    "interest": "Alto",
+    "influence": "Alto",
+    "rol": "N/A",
+    "estrategia": "N/A"
+  },
+  {
+    "id": "COCODE",
+    "group": "Colonias",
+    "interest": "Alto",
+    "influence": "Alto",
+    "rol": "Representan las colonias/comunidades del área de influencia; tienen relación histórica con el área donde operaba el ingenio concepción y ahora Synergy, además de supervisar y monitorear el suministro de agua que sale del parque industrial. ",
+    "estrategia": "Diálogo directo en reuniones atendidas por colonia "
+  },
+  {
+    "id": "Asociación del agua",
+    "group": "Colonias",
+    "interest": "Alto",
+    "influence": "Medio",
+    "rol": "Colabora en la administracción de acceso y distribución del agua que sale del parque, en las colonias de Magnolias y Cañaverales",
+    "estrategia": "Acompañamiento para desarrollo de planes de mejora en infraestructura hídrica"
+  },
+  {
+    "id": "INTECAP",
+    "group": "Socios estratégicos",
+    "interest": "Alto",
+    "influence": "Alto",
+    "rol": "Ofrece capacitación técnica, clave para los procesos de tecnificación y educación que Synergy busca desarrollar",
+    "estrategia": "Formalización de convenios de formación tecnico-laboral"
+  },
+  {
+    "id": "Universidades (URL, UVG)",
+    "group": "Socios estratégicos",
+    "interest": "Medio",
+    "influence": "Medio",
+    "rol": "Aportan formación y análisis técnico, actores clave para promoción de educación superior en la zona. ",
+    "estrategia": "Vinculación con programas de beca y estudios ténicos y de profesionalización "
+  },
+  {
+    "id": "Contratistas",
+    "group": "Socios estratégicos",
+    "interest": "Alto",
+    "influence": "Medio",
+    "rol": "Contribuyen a la captura de mano de obra local. ",
+    "estrategia": "Diálogo para difusión de oportunidades de empleo a través de la estrategia de relacionamiento"
+  },
+  {
+    "id": "PNC / PMT / CONRED",
+    "group": "Municipalidad",
+    "interest": "Medio",
+    "influence": "Alto",
+    "rol": "Responsables de seguridad, transito y gestión de riesgos ",
+    "estrategia": "Coordinación logística y preventiva cuando se requiera por movilidad de transporte pesado, rios desbordados o actividades de riesgo identificadas para el proyecto y vecinos del AI"
+  },
+  {
+    "id": "MINTRAB / MIDES / IGSS",
+    "group": "Socios estratégicos",
+    "interest": "Alto",
+    "influence": "Medio",
+    "rol": "Brindan estructura sobre políticas laborales, salud y protección social. ",
+    "estrategia": "Diseño de ferias de empleo y estandarización de procesos de contratación para Synergy y socios"
+  },
+  {
+    "id": "Colonias del AI",
+    "group": "Colonias",
+    "interest": "Alto",
+    "influence": "Medio",
+    "rol": "Beneficiarios directos del proyecto, empleo, servicios y vivienda. ",
+    "estrategia": "Participación comunitaria a través de COCODEs, buzón de sugerencias, canales de comunicación provistos por Synergy "
+  },
+  {
+    "id": "FUNDABIEM",
+    "group": "Colonias",
+    "interest": "Medio",
+    "influence": "Bajo",
+    "rol": "Atiende personas con discapacidad, activo y en proceso de remozamiento. ",
+    "estrategia": "Potencial aliado estratégico, pertenece al AID, ubicado en colonia Quetzal "
+  },
+  {
+    "id": "Empresas privadas",
+    "group": "Socios estratégicos",
+    "interest": "Alto",
+    "influence": "Medio",
+    "rol": "Potenciales aliados en procesos de contratación, desarrollo de modelos de turismo sostenible, reciclaje e inversión social. ",
+    "estrategia": "Construcción de acuerdos de colaboración conjunta. "
+  },
+  {
+    "id": "INVEST Guatemala",
+    "group": "Socios estratégicos",
+    "interest": "Alto",
+    "influence": "Alto",
+    "rol": "Agencia de promoción de la inversión privada que trabaja para aumentar la inversión extranjera directa, la competitividad del entorno empresarial y el crecimiento económico sostenible en Guatemala.",
+    "estrategia": "Presentación de proyecto Synergy y estrategia de relacionamiento "
+  },
+  {
+    "id": "FUNDAZUCAR",
+    "group": "Socios estratégicos",
+    "interest": "Alto",
+    "influence": "Medio",
+    "rol": "La Fundación del Azúcar -Fundazúcar- es el brazo social de los ingenios azucareros de Guatemala. Fundada en 1990 por la Asociación de Azucareros de Guatemala ",
+    "estrategia": "Potenciales convenios de colaboración alineadas a las áreas de acción de Synergy según Estrategia de Relacionamiento "
+  },
+  {
+    "id": "CENGICAÑA",
+    "group": "Socios estratégicos",
+    "interest": "Alto",
+    "influence": "Medio",
+    "rol": "Centro Guatemalteco de Investigación y Capacitación de la Caña - Santa Lucía Cotzumalguapa ",
+    "estrategia": "Construcción de acuerdos de colaboración para prácticas, pasantías, etc. "
+  },
+  {
+    "id": "FORAGRO",
+    "group": "Socios estratégicos",
+    "interest": "Alto",
+    "influence": "Medio",
+    "rol": "Tienda de agroquímicos por instalarse dentro del parque industrial ",
+    "estrategia": "Convenios para la priorización de contratación de mano de obra local. "
+  },
+  {
+    "id": "CUNSUR",
+    "group": "Socios estratégicos",
+    "interest": "Alto",
+    "influence": "Medio",
+    "rol": "Universidad de San Carlos de Guatemala en Escuintla ",
+    "estrategia": "Diálogo para la creación de programas para practicantes y potencial captura de mano de obra tecnificada y profesionalizada. "
+  },
+  {
+    "id": "INGUAT",
+    "group": "Socios estratégicos",
+    "interest": "Alto",
+    "influence": "Medio",
+    "rol": "Sin presencia directa en el territorio ",
+    "estrategia": "Diálogo para la creación de programas de turismo local"
+  },
+  {
+    "id": "CONALFA",
+    "group": "Socios estratégicos",
+    "interest": "Alto",
+    "influence": "Medio",
+    "rol": "Participa en la construcción de las políticas de buen vecino para el componente de vivienda ",
+    "estrategia": "Colaboración vigente para la estrategia del componente de vivienda. "
+  },
+  {
+    "id": "CONAP",
+    "group": "Socios estratégicos",
+    "interest": "Alto",
+    "influence": "Alto",
+    "rol": "Guatemala Green Building Council, Buscamos la transformación del mercado del sector construcción hacia practicas ambientalmente amigables, socialmente responsables y económicamente factibles para no comprometeré las necesidades de las futuras generaciones.",
+    "estrategia": "Certificación LEED+ vigente para todas las actividades constructivas de Synergy "
+  },
+  {
+    "id": "MAGA",
+    "group": "Socios estratégicos",
+    "interest": "Bajo",
+    "influence": "Bajo",
+    "rol": "N/A",
+    "estrategia": "N/A"
+  },
+  {
+    "id": "Dirección de caminos",
+    "group": "Socios estratégicos",
+    "interest": "Bajo",
+    "influence": "Bajo",
+    "rol": "N/A",
+    "estrategia": "N/A"
+  },
+  {
+    "id": "MIDES",
+    "group": "Socios estratégicos",
+    "interest": "Bajo",
+    "influence": "Bajo",
+    "rol": "N/A",
+    "estrategia": "N/A"
+  },
+  {
+    "id": "PDH",
+    "group": "Socios estratégicos",
+    "interest": "Bajo",
+    "influence": "Bajo",
+    "rol": "N/A",
+    "estrategia": "N/A"
+  },
+  {
+    "id": "Unidad de ambiente",
+    "group": "Socios estratégicos",
+    "interest": "Bajo",
+    "influence": "Bajo",
+    "rol": "N/A",
+    "estrategia": "N/A"
+  },
+  {
+    "id": "Unidad DCT",
+    "group": "Socios estratégicos",
+    "interest": "Bajo",
+    "influence": "Bajo",
+    "rol": "N/A",
+    "estrategia": "N/A"
+  }
+]

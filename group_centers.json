@@ -1,0 +1,14 @@
+{
+  "Municipalidad": {
+    "x": 400,
+    "y": 500
+  },
+  "Colonias": {
+    "x": 800,
+    "y": 500
+  },
+  "Socio Estratégico": {
+    "x": 1200,
+    "y": 500
+  }
+}

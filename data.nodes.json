@@ -1,0 +1,149 @@
+[
+  {
+    "id": "Synergy",
+    "group": "Central",
+    "interest": "Synergy"
+  },
+  
+  {
+    "id": "Municipalidad Escuintla",
+    "group": "Municipalidad",
+    "interest": "Alto"
+  },
+  {
+    "id": "Alcalde A. Rivera",
+    "group": "Municipalidad",
+    "interest": "Alto"
+  },
+  {
+    "id": "COCODE",
+    "group": "Colonias",
+    "interest": "Alto"
+  },
+  {
+    "id": "Asociación del agua",
+    "group": "Colonias",
+    "interest": "Alto"
+  },
+  {
+    "id": "INTECAP",
+    "group": "Socio estratégico",
+    "interest": "Alto"
+  },
+  {
+    "id": "Universidades (URL, UVG)",
+    "group": "Socio estratégico",
+    "interest": "Medio"
+  },
+  {
+    "id": "Contratistas",
+    "group": "Socio estratégico",
+    "interest": "Alto"
+  },
+  {
+    "id": "PNC / PMT / CONRED",
+    "group": "Municipalidad",
+    "interest": "Medio"
+  },
+  {
+    "id": "MINTRAB / MIDES / IGSS",
+    "group": "Socio estratégico",
+    "interest": "Alto"
+  },
+  {
+    "id": "Colonias del AI",
+    "group": "Colonias",
+    "interest": "Alto"
+  },
+  {
+    "id": "FUNDABIEM",
+    "group": "Colonias",
+    "interest": "Medio"
+  },
+  {
+    "id": "Empresas privadas",
+    "group": "Socio estratégico",
+    "interest": "Alto"
+  },
+  {
+    "id": "INVEST Guatemala",
+    "group": "Socio estratégico",
+    "interest": "Alto"
+  },
+  {
+    "id": "FUNDAZUCAR",
+    "group": "Socio estratégico",
+    "interest": "Alto"
+  },
+  {
+    "id": "CENGICAÑA",
+    "group": "Socio estratégico",
+    "interest": "Alto"
+  },
+  {
+    "id": "FORAGRO",
+    "group": "Socio estratégico",
+    "interest": "Alto"
+  },
+  {
+    "id": "CUNSUR",
+    "group": "Socio estratégico",
+    "interest": "Alto"
+  },
+  {
+    "id": "INGUAT",
+    "group": "Socio estratégico",
+    "interest": "Alto"
+  },
+
+  {
+    "id": "Corporación responder",
+    "group": "Socio estratégico",
+    "interest": "Alto"
+  },
+  {
+    "id": "Green Building",
+    "group": "Socio estratégico",
+    "interest": "Alto"
+  },
+  {
+    "id": "CONALFA",
+    "group": "Socio estratégico",
+    "interest": "Bajo"
+  },
+  {
+    "id": "CONAP",
+    "group": "Socio estratégico",
+    "interest": "Bajo"
+  },
+  {
+    "id": "MAGA",
+    "group": "Socio estratégico",
+    "interest": "Bajo"
+  },
+  {
+    "id": "Dirección de caminos",
+    "group": "Socio estratégico",
+    "interest": "Bajo"
+  },
+  {
+    "id": "MIDES",
+    "group": "Socio estratégico",
+    "interest": "Bajo"
+  },
+  {
+    "id": "PDH",
+    "group": "Socio estratégico",
+    "interest": "Bajo"
+  },
+  {
+    "id": "Unidad de ambiente",
+    "group": "Socio estratégico",
+    "interest": "Bajo"
+  },
+  {
+    "id": "Unidad DCT",
+    "group": "Socio estratégico",
+    "interest": "Bajo"
+  }
+]
